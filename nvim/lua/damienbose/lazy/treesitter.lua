@@ -1,5 +1,6 @@
 return {
     "nvim-treesitter/nvim-treesitter",
+    branch = "master", -- This is the deprecated branch, but it works so oh well.
     build = ":TSUpdate",
     config = function()
         require("nvim-treesitter.configs").setup({
@@ -37,7 +38,7 @@ return {
 
             -- Automatically install missing parsers when entering buffer
             -- Recommendation: set to false if you don"t have `tree-sitter` CLI installed locally
-            auto_install = true,
+            auto_install = false,
 
             indent = {
                 enable = false
