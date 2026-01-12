@@ -1,0 +1,27 @@
+{
+    "window.commandCenter": true,
+    "cursor.general.disableHttp2": true,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1,
+    },
+    "remote.SSH.remotePlatform": {
+        "MRFODV-RR-427": "linux",
+        "dbose17-4b65d4.spaces": "linux",
+        "MRLXDV-OB-213": "linux",
+        "MRLXDV-PW-858": "linux",
+        "dbose17-a5833b.spaces": "linux"
+    },
+    "security.promptForRemoteFileProtocolHandling": false,
+    "workbench.activityBar.orientation": "vertical",
+    "cursor.cpp.enablePartialAccepts": true,
+    "git.autofetch": true,
+    "remote.autoForwardPortsSource": "hybrid",
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.eol": "\n",
+    "workbench.sideBar.location": "right",
+    "cursor.inlineDiff.mode": "unified",
+    "git.blame.editorDecoration.enabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+}
