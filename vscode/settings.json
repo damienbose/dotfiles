@@ -18,5 +18,9 @@
     "workbench.editor.pinnedTabsOnSeparateRow": true,
     "security.workspace.trust.untrustedFiles": "open",
     "claudeCode.preferredLocation": "panel",
-    "claudeCode.useTerminal": true
+    "claudeCode.useTerminal": true,
+    "editor.accessibilitySupport": "off",
+    "workbench.editorAssociations": {
+        "*.pdf": "latex-workshop-pdf-hook"
+    },
 }
