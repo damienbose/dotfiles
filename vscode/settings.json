@@ -19,6 +19,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "claudeCode.preferredLocation": "panel",
     "claudeCode.useTerminal": true,
+    "python.terminal.activateEnvironment": false,
     "editor.accessibilitySupport": "off",
     "workbench.editorAssociations": {
         "*.pdf": "latex-workshop-pdf-hook"
